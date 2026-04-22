@@ -92,6 +92,6 @@ by April 19th
 
 ## GitHub Contributors
 - aliibek : Mukhammadali Madaminov
-- sultaniwahid240-cell : Wahid Sultani
+- wahid123542: Wahid Sultani
 - thoma-sH : Thomas Hamilton
 - TrueRyoB : Ryoji Araki
