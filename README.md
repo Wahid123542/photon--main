@@ -1,5 +1,8 @@
 sudo# Photon main (team 20)
 [quick link to the main branch](https://github.com/SE-Team-20/photon-main/tree/main)
+## screenshot of the main window
+<img width="1476" height="827" alt="Screenshot 2026-04-22 at 1 06 49 PM" src="https://github.com/user-attachments/assets/c46fd92e-623e-4898-8486-7278821793dd" />
+
 
 ## Quick Run Instructions (Linux)
 ## Install script has two versions based on your native OS —Mac and Windows. Please use the version appropriate for your system:
