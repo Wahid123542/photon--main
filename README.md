@@ -1,7 +1,7 @@
 sudo# Photon main (team 20)
 [quick link to the main branch](https://github.com/SE-Team-20/photon-main/tree/main)
 ## screenshot of the main window
-## this project was done in the SOFTWARE ENGINEERING CLASS SPRING 2026 
+## this project was done in the SOFTWARE ENGINEERING CLASS SPRING 2026 AT UNIVERSITY OF ARKANASAS
 <img width="1476" height="827" alt="Screenshot 2026-04-22 at 1 06 49 PM" src="https://github.com/user-attachments/assets/c46fd92e-623e-4898-8486-7278821793dd" />
 
 
